@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a web developer working with a range of exciti
 
 ## My Technologies
 
-- **React:**  I actively use React to build dynamic and efficient interfaces.
+- **React:** 🚀 I actively use React to build dynamic and efficient interfaces.
 
 - **Next.js:** 🌐 In my projects, I leverage Next.js to enhance productivity and work on various functionalities.
 
