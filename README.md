@@ -24,7 +24,9 @@ Welcome to my GitHub profile. I'm a web developer working with a range of exciti
 
 ## Contact
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yurii-vasiuk).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via
+[![Linkedin Badge](https://img.shields.io/badge/-Yurii_Vasiuk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurii-vasiuk/) 
+[![Mail Badge](https://img.shields.io/badge/-Yurii_Vasiuk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yurec133@gmail.com)
 
 Thanks for visiting! 🚀
 
