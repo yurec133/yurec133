@@ -4,11 +4,11 @@ Welcome to my GitHub profile. I'm a web developer working with a range of exciti
 
 ## My Technologies
 
-- ![Static Badge](https://img.shields.io/badge/-%23?logo=react&logoColor=%2361DAFB&color=%23000) **React:** I actively use React to build dynamic and efficient interfaces.
+- <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />  **React:** I actively use React to build dynamic and efficient interfaces.
 
-- ![Static Badge](https://img.shields.io/badge/-%23000?logo=next.js) **Next.js:** In my projects, I leverage Next.js to enhance productivity and work on various functionalities.
+- <img align="left" alt="Next.js" width="26px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" /> **Next.js:** In my projects, I leverage Next.js to enhance productivity and work on various functionalities.
 
-- ![Static Badge](https://img.shields.io/badge/-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&color=%23000) **JavaScript (JS):** My primary programming language is JavaScript. I use it to create powerful and efficient solutions.
+- <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /> **JavaScript (JS):** My primary programming language is JavaScript. I use it to create powerful and efficient solutions.
 
 ## Skills
 
