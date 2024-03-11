@@ -1,4 +1,4 @@
-# Hello, I'm Yurii! 👋
+# Hi, I'm Yurii! 👋
 
 Welcome to my GitHub profile. I'm a web developer working with a range of exciting technologies to create modern web applications.
 
