@@ -21,9 +21,4 @@ Welcome to my GitHub profile. I'm a web developer working with a range of exciti
 - ✅ MUI, Ant Design, Chakra UI, UIKIT, Tailwind CSS, Styled components, Bootstrap, HTML, CSS, SCSS
 
 
-
-## Contact
-
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via: [![Linkedin Badge](https://img.shields.io/badge/-Yurii-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurii-vasiuk/)
-
 Thanks for visiting! 🚀
